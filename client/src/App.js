@@ -41,7 +41,7 @@ function App() {
       setData(response.data);
       console.log(Data);
     });
-  },[])
+  })
   return (
     <div className="App">
       <h1>CRUD APPLICATION</h1>
