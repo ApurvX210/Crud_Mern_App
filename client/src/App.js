@@ -64,7 +64,7 @@ function App() {
       {/* <button onClick={Select}>Select Data</button> */}
       </div>
       
-      <h1>Customer Detail</h1>
+      <h1>Customer Details</h1>
       <div className="table-container">
       <tbody>
         <tr>
